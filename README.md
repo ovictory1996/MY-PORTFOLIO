@@ -2,13 +2,13 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi there! I’m Obi Victory 👨‍💻 — a Data Analyst, Educator, and budding Front-End Developer with a passion for turning raw data into smart decisions and smooth user experiences. 
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As a data analyst,I work with tools like Excel, Power BI, SQL, and Python to explore trends, build dashboards, and solve real business problems. Whether I’m teaching, analyzing, or coding, I love making complex things simple and impactful..*
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
@@ -54,7 +54,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:obivictory1996@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:obivictory1996@gmail.com">obivictory1996@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
