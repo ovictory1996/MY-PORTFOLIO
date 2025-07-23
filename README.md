@@ -13,25 +13,15 @@ Hi there! I’m Obi Victory 👨‍💻 — a Data Analyst, Educator, Database A
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
-
-
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
 *A glimpse of some of the projects I've been working on.*
 
 **Analysis-of-Sales-in-different-regions-from-2013-to-2015.**
-![image](1 anietie etuk data analytics car project.jpeg
 [Read More](https://github.com/ovictory1996/Analysis-of-Sales-in-different-regions-from-2013-to-2015)
 
-
-
 **Analysis-of-Coffee-Shop-Sale-in-Lower-Manhattan-Hell-s-Kitchen-and-Astoria.**
-
-![image](2 anietie etuk data analytics sales project.jpg)
-
 [Read More]([https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/](https://github.com/ovictory1996/Analysis-of-Coffee-Shop-Sale-in-Lower-Manhattan-Hell-s-Kitchen-and-Astoria))
 
 ## CONTACT DETAILS
