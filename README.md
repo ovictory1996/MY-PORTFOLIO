@@ -22,7 +22,7 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 [Read More](https://github.com/ovictory1996/Analysis-of-Sales-in-different-regions-from-2013-to-2015)
 
 **Analysis-of-Coffee-Shop-Sale-in-Lower-Manhattan-Hell-s-Kitchen-and-Astoria.**
-[Read More]((https://github.com/ovictory1996/Analysis-of-Coffee-Shop-Sale-in-Lower-Manhattan-Hell-s-Kitchen-and-Astoria))
+[Read More](https://github.com/ovictory1996/Analysis-of-Coffee-Shop-Sale-in-Lower-Manhattan-Hell-s-Kitchen-and-Astoria)
 
 ## CONTACT DETAILS
 
