@@ -19,9 +19,11 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 *A glimpse of some of the projects I've been working on.*
 
 **Analysis-of-Sales-in-different-regions-from-2013-to-2015.**
+![Sales](SALES_DASHBOAD.PNG)
 [Read More](https://github.com/ovictory1996/Analysis-of-Sales-in-different-regions-from-2013-to-2015)
 
 **Analysis-of-Coffee-Shop-Sale-in-Lower-Manhattan-Hell-s-Kitchen-and-Astoria.**
+![Coffee](coffee_sales_Dashboard.PNG)
 [Read More](https://github.com/ovictory1996/Analysis-of-Coffee-Shop-Sale-in-Lower-Manhattan-Hell-s-Kitchen-and-Astoria)
 
 ## CONTACT DETAILS
