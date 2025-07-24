@@ -43,7 +43,7 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href=" https://drive.google.com/file/d/1PxDeayH7IU3fu3C0HTGl5mSW_W0HedBg/view?usp=sharing">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
@@ -52,7 +52,7 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
   </tbody>
 </table>
 
-   
+   https://drive.google.com/file/d/1PxDeayH7IU3fu3C0HTGl5mSW_W0HedBg/view?usp=sharing
 
 
 
