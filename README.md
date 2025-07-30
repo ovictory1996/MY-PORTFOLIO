@@ -19,7 +19,9 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 *A glimpse of some of the projects I've been working on.*
 
 **A-Data-Driven-Insight-into-Coffee-Sales-and-Customer-Preferences**
+
 ![Sales](visual.PNG)
+
 [Read More](https://github.com/ovictory1996/A-Data-Driven-Insight-into-Coffee-Sales-and-Customer-Preferences)
 
 **Analysis-of-Sales-in-different-regions-from-2013-to-2015.**
