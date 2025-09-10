@@ -18,6 +18,12 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 
 *A glimpse of some of the projects I've been working on.*
 
+**Analysis-of-Regional-Sales-Performance-and-Market-Segmentation**
+
+![globals](globals.png)
+
+[Read More](https://github.com/ovictory1996/Analysis-of-Regional-Sales-Performance-and-Market-Segmentation-)
+
 **A-Data-Driven-Insight-into-Coffee-Sales-and-Customer-Preferences**
 
 ![Sales](visual.PNG)
