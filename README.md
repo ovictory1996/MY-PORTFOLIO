@@ -19,7 +19,7 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 *A glimpse of some of the projects I've been working on.*
 
 **Comparative-Analysis-of-Global-Pharmaceutical-and-Health-Spending-2011-2021**
-![dash1](dash1.png)
+![dash1](globa.png)
 [Read More](https://github.com/ovictory1996/Comparative-Analysis-of-Global-Pharmaceutical-and-Health-Spending-2011-2021-)
 
 **Analysis-of-Regional-Sales-Performance-and-Market-Segmentation**
